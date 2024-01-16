@@ -21,9 +21,6 @@
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>  
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanrakib&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="shadmanrakib" /></p>
-
-
 <!--
 **shadmanrakib/shadmanrakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
