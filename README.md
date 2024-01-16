@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shadman</h1>
 <h3 align="center">I'm an aspiring software engineer, majoring in CS on the side.</h3>
+<h3 align="center">
+<a align="center" href="https://www.shadmanrakib.com">https://www.shadmanrakib.com</a>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
