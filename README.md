@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadman</h1>
 <h3 align="center">I like building things.</h3>
 <h3 align="center">
-<a align="center" href="https://www.shadmanrakib.com">https://www.shadmanrakib.com</a>
+<a align="center" href="https://www.shadmanrakib.com">https://shadmanrakib.com</a>
 </h3>
 
 <!--
